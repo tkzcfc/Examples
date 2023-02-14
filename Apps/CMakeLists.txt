@@ -118,3 +118,5 @@ endmacro()
 
 add_subdirectory(Common/Application)
 add_subdirectory(CircleToBox)
+add_subdirectory(Quadtree)
+
